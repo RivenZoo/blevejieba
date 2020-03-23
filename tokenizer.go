@@ -54,9 +54,9 @@ JiebaTokenizerConstructor creates a JiebaTokenizer.
 Parameter config can contains following parameter:
     dict_path: optional, the path of the dictionary file.
     hmm_path: optional, specify whether to use Hidden Markov Model, see NewJiebaTokenizer for details.
-	userdict_path: optional, specify user dict file path
-	idf_path: optional, specify idf file path
-	stopdict_path: optional, specify user stop dict file path
+    userdict_path: optional, specify user dict file path
+    idf_path: optional, specify idf file path
+    stopdict_path: optional, specify user stop dict file path
     is_search: optional, speficy whether to use isSearch mode, see NewJiebaTokenizer for details.
 */
 func JiebaTokenizerConstructor(config map[string]interface{}, cache *registry.Cache) (

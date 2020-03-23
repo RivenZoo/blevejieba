@@ -1,3 +1,6 @@
+/*
+* blevejieba是一个bleve的中文分词插件，基于gojieba开发
+ */
 package blevejieba
 
 // Name is the jieba analyzer/tokenizer name.
