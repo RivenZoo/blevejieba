@@ -10,7 +10,7 @@ require (
 	github.com/cznic/b v0.0.0-20181122101859-a26611c4d92d // indirect
 	github.com/cznic/mathutil v0.0.0-20181122101859-297441e03548 // indirect
 	github.com/cznic/strutil v0.0.0-20181122101858-275e90344537 // indirect
-	github.com/etcd-io/bbolt v0.0.0-00010101000000-000000000000 // indirect
+	github.com/etcd-io/bbolt v1.3.4 // indirect
 	github.com/facebookgo/ensure v0.0.0-20200202191622-63f1cf65ac4c // indirect
 	github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 // indirect
 	github.com/facebookgo/subset v0.0.0-20200203212716-c811ad88dec4 // indirect
